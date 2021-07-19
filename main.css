@@ -9,6 +9,7 @@
     box-shadow: 2px 1px 1px;
     margin: 5px;
     max-width: 30%;
+    max-height: 30%;
 }
 
 h2 {
@@ -59,4 +60,6 @@ footer {
 
 .description {
     margin: 5px;
+    border-top: dashed 2px lightblue;
+    border-bottom: dashed 2px lightblue;
 }
