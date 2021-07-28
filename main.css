@@ -4,8 +4,12 @@
     flex: 1 33%;
 }
 
+body {
+    background-color:cadetblue;
+}
+
 .card {
-    /* border: solid 1px lightblue; */
+    border: solid 1px goldenrod;
     box-shadow: 2px 1px 1px;
     margin: 5px;
     max-width: 30%;
@@ -31,10 +35,6 @@ img {
     font-weight: bold;
     text-indent: 5px;
     margin: 3px;
-}
-
-.section_1 {
-    word-wrap: break-word;
 }
 
 .details {
